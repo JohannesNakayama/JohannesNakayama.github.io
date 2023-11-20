@@ -6,4 +6,6 @@ aliases = ["about-me", "johannes-nakayama"]
 author = "Johannes Nakayama"
 +++
 
-Halo I bims
+I'm a data scientist with a strong background in software development looking to become a software engineer with a strong background in data science.
+
+My setup: [link to dotfiles]
