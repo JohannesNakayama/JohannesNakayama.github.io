@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Me"
 description = "Some facts about me"
 date = "2023-11-19"
 aliases = ["about-me", "johannes-nakayama"]
@@ -7,15 +7,17 @@ author = "Johannes Nakayama"
 +++
 
 I'm a data scientist and software developer.
-I started out in science, but now I'm more interested in building things.
-My scientific research was about emergent phenomena in complex social systems.
-That still fascinates me, but I don't just want to describe it, I want to design systems that display constructive emergent effects.
+I started my career in science pursueing a PhD at the Human-Computer Interaction Center at RWTH Aachen University.
+I researched emergent phenomena in complex social systems, mainly in the field of opinion dynamics, using agent-based modeling.
+I'm still passionate about this topic today and pursue it actively in my spare time.
 
-Most recently, I've worked as a data scientist, but most of what I was doing is fullstack development since at a small company, there is not enough people to have a long overhead of "I make the concept, you build it".
-So for most of the products we designed, I worked on them with the other software engineers at Fabit.
+Even though I enjoyed research a lot, I realized that I want to build things rather than only do research and write about stuff.
+This is why I switched to industry.
+Most recently, I've worked as a data scientist at Fabit GmbH, working on a mobile app with the purpose to help people become financially healthy.
+I worked on the frontend (Dart/Flutter), backend (Kotlin/Spring), and the database (PostgreSQL).
 
-My hobbies are bouldering, Toastmasters, hacking, and I work on Social Protocols, an open source project/org which has the goal of designing algorithms for social media that direct attention in a way that does not reproduce the distructive patterns of today's engagement-driven recommender systems.
+### How I work
 
-Finally, I'm also a Linux user and like tinkering with my setup.
-If you're interested in how I setup my computer, here are my [dotfiles](https://github.com/JohannesNakayama/dotfiles).
+I'm a passionate Linux user.
 Currently, I run NixOS and I'm pretty happy with it.
+If you're interested in how I setup my computer, here are my [dotfiles](https://github.com/JohannesNakayama/dotfiles).
