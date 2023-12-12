@@ -55,12 +55,12 @@ style = "github-dark"
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
-  url = "https://www.linkedin.com/"
-[[params.social]]
-  name = "Xing"
-  icon = "fa fa-xing fa-2x"
-  weight = 4
-  url = "https://www.xing.com/"
+  url = "https://www.linkedin.com/in/johannes-nakayama/"
+# [[params.social]]
+#   name = "Xing"
+#   icon = "fa fa-xing fa-2x"
+#   weight = 4
+#   url = "https://www.xing.com/"
 
 # Menu links
 [[menu.main]]

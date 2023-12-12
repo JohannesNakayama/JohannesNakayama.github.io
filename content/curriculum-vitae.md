@@ -10,33 +10,30 @@ author = "Johannes Nakayama"
 
 **Data Scientist**
 
-Fabit's mission was to help people become financially healthy.
-Our main product was a personal finance app that allowed users to keep track of their 
-expenses and budget their money.
-We had a specific focus on helping people out of financially dire situations, for example if they had a lot of debt.
-I worked at Fabit as a data scientist.
-Most of my work consested of working on the product in the frontend (Dart/Flutter), backend (Spring/Kotlin), and on the database (PostgreSQL).
-Apart from that, I analyzed the company's data, building a semi-automated reporting infrastructure and interactive data visualizations. 
+Fabit's mission is to help people become financially healthy.
+Our main product is a personal finance app that allows users to keep track of their expenses and budget their money.
+We focus specifically on helping people out of financially dire situations, for example if they have a lot of debt.
+I work at Fabit as a data scientist.
+Most of my work consists of working on the product in the frontend (Dart/Flutter), backend (Spring/Kotlin), and on the database (PostgreSQL).
+Apart from that, I built a semi-automated reporting infrastructure, analyze the company's data, and communicate my results via interactive visualizations and dashboards.
 For data analyses, I used R (mainly a tidyverse stack and shiny for interactive visualizations and dashboards).
-
-- recommender system for next action to improve financial situation
-- automated budgeting algorithm
 
 
 ### 2021 Feb - 2022 Jul: Human-Computer Interaction Center (RWTH Aachen University)
 
 **Research Assistant**
 
-* research on emergent phenomena in social systems, especially in online social and collaborative software, network science, agent-based modeling, data visualization, opinion dynamics
-* building a graph plot library component for seminr [TODO: link]
-* teaching materials for agent-based modeling and complex systems
+At RWTH Aachen University I researched emergent phenomena in social systems, using agent-based modeling, tools from network science and graph theory.
+I focussed especially on online social and collaborative software, mainly in the field of opinion dynamics.
+Apart from that, I did some research on information and data visualization.
+A list of research papers I co-authored is available on [Google Scholar](https://scholar.google.com/citations?user=UJHPeoUAAAAJ&hl=de&oi=ao).
 
 
 ### 2019 May - 2019 Aug: Optinoo GmbH
 
 **Data Science Intern**
 
-As an intern at Optinoo GmbH, I helped developing a matching algorithm that aimed at finding best matches between job candidates and companies on the basis of culture fit.
+As an intern at Optinoo GmbH, I helped develop a matching algorithm to find best matches between job candidates and companies on the basis of culture fit.
 
 
 ### 2018 Feb - 2021 Feb: Human-Computer Interaction Center (RWTH Aachen University)
@@ -45,11 +42,6 @@ As an intern at Optinoo GmbH, I helped developing a matching algorithm that aime
 
 In my work as a student assistant researcher, I worked with the junior research group "Digitale Mündigkeit" (loosely translates to "digital citizenship").
 My work there consisted of building agent-based models, creating publication-ready and interactive data visualizations and statistical analyses, and building scientific software.
-
-As part of my work, I participated in the EuroCSS dataset challenge in 2018 where the task was to determine the level of personalization in a dataset of donated Google search result lists of thousands of participants. 
-For this purpose, we developed a novel clustering algorithm, a variation of the K-means algorithm with the rank-biased overlap as metric.
-
-I also co-wrote a graph plotting library for the [seminr](https://github.com/sem-in-r/seminr) library which provides functionality to build structural equation models (SEMs) in R.
 
 
 ## Education
