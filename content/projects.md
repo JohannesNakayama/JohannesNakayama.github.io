@@ -62,3 +62,12 @@ Encryption and decryption do work, although I certainly doubt that my library co
 If you find it interesting though, trying to break this encryption and decrypt a message encrypted with this scheme could be a fun learning project.
 The library provides a hacky tool to animate the BCAs as well, so playing around with that could also be fun.
 The code is on [GitHub](https://github.com/JohannesNakayama/BCACrypt).
+
+
+## My Dotfiles
+
+Perhaps a bit strange to include my dotfiles in my project list, but I' a passionate Linux user and I've put considerable effort in them.
+I've learned tons from studying other peoples' dotfiles, so why not include mine here too?
+
+Currently, I run NixOS and I'm pretty happy with it.
+If you're interested in how I setup my computer, you can check out my dotfiles [here](https://github.com/JohannesNakayama/dotfiles).
