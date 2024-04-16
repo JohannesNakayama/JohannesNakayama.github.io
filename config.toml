@@ -16,7 +16,7 @@ style = "github-dark"
   info = "Data Scientist & Software Developer"
   description = "Johannes Nakayama's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "portrait.JPG"
+  #avatarurl = "portrait.JPG"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
