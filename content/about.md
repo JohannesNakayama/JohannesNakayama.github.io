@@ -1,17 +1,14 @@
 +++
-title = "About Me"
+title = "About"
 description = "Some facts about me"
 date = "2023-11-19"
 aliases = ["about-me", "johannes-nakayama"]
 author = "Johannes Nakayama"
 +++
 
+Hi, I'm Johannes ✌️
+
 I'm a data scientist and software developer.
-I started my career in science as a researcher at the Human-Computer Interaction Center at RWTH Aachen University.
-My research focus was on emergent phenomena in complex social systems, mainly in the field of opinion dynamics, using agent-based modeling.
-
-Even though I enjoyed research a lot, I realized that I want to build things rather than only do research and write about stuff.
-This is why I switched to industry.
-Most recently, I've worked as a data scientist at Fabit GmbH, working on a mobile app with the purpose of helping people become financially healthy.
-I worked on the frontend (Dart/Flutter), backend (Kotlin/Spring), and the database (PostgreSQL).
-
+Worked in science for several years trying to understand the emergence of polarization as a consequence of opinion dynamics in online social networks.
+Switched from academia to industry and joined Berlin-based fintech startup Fabit where I worked as a data scientist, mostly doing fullstack development (mobile, backend, database).
+In January 2024, along with two co-founders, I decided to go all-in with [Social Protocols](https://social-protocols.org/) to build technology for more intelligent and constructive public conversations.
