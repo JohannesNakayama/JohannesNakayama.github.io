@@ -6,57 +6,52 @@ aliases = ["cv", "curriculum-vitae"]
 author = "Johannes Nakayama"
 +++
 
-### 2022 Aug - now: Fabit GmbH
+I'm currently working at [Social Protocols](https://social-protocols.org/) which I co-founded with [Felix Dietze](https://felx.me/) and [Jonathan Warden](https://jonathanwarden.com/).
+I'll share more on that soon.
 
-**Data Scientist**
+### Data Scientist
 
-Fabit's mission is to help people become financially healthy.
-Our main product is a personal finance app that allows users to keep track of their expenses and budget their money.
-We focus specifically on helping people out of financially dire situations, for example if they have a lot of debt.
-I work at Fabit as a data scientist.
-Most of my work consists of working on the product in the frontend (Dart/Flutter), backend (Spring/Kotlin), and on the database (PostgreSQL).
-Apart from that, I built a semi-automated reporting infrastructure, analyze the company's data, and communicate my results via interactive visualizations and dashboards.
-For data analyses, I used R (mainly a tidyverse stack and shiny for interactive visualizations and dashboards).
+*2022 Aug - 2023 Dec* | **Fabit GmbH**
+
+Berlin-based fintech startup +++ mission: help people become financially healthy +++ product: mobile app to keep track of expenses and budget money +++ my work: frontend (Dart/Flutter), backend (Spring/Kotlin), and database (PostgreSQL) development; built a semi-automated reporting infrastructure; analyze company data (R/tidyverse); built dashboards and visualizations (R/shiny/tidyverse)
 
 
-### 2021 Feb - 2022 Jul: Human-Computer Interaction Center (RWTH Aachen University)
+### Research Assistant 
 
-**Research Assistant**
+*2021 Feb - 2022 Jul* | **Human-Computer Interaction Center (RWTH Aachen University)**
 
-At RWTH Aachen University I researched emergent phenomena in social systems, using agent-based modeling, tools from network science and graph theory.
-I focussed especially on online social and collaborative software, mainly in the field of opinion dynamics.
-Apart from that, I did some research on information and data visualization.
-A list of research papers I co-authored is available on [Google Scholar](https://scholar.google.com/citations?user=UJHPeoUAAAAJ&hl=de&oi=ao).
+researched emergent phenomena in social systems +++ modelled opinion dynamics using agent-based simulation +++ mostly interested in the effects of online social networks on political polarization +++ some research on information visualization and scientometrics +++ list of papers I co-authored is available on [Google Scholar](https://scholar.google.com/citations?user=UJHPeoUAAAAJ&hl=de&oi=ao)
 
 
-### 2019 May - 2019 Aug: Optinoo GmbH
+### Data Science Intern 
 
-**Data Science Intern**
+*2019 May - 2019 Aug* | **Optinoo GmbH**
 
-As an intern at Optinoo GmbH, I helped develop a matching algorithm to find best matches between job candidates and companies on the basis of culture fit.
-
-
-### 2018 Feb - 2021 Feb: Human-Computer Interaction Center (RWTH Aachen University)
-
-**Student Assistant Researcher**
-
-In my work as a student assistant researcher, I worked with the junior research group "Digitale Mündigkeit" (loosely translates to "digital citizenship").
-My work there consisted of building agent-based models, creating publication-ready and interactive data visualizations and statistical analyses, and building scientific software.
+Berlin-based startup offering a platform to match job candidates and companies +++ my work: helped develop a matching algorithm to find best matches between candidates and companies on the basis of culture fit
 
 
-## Education
+### Student Assistant Researcher 
 
-### 2018 Oct - 2020 Nov
+*2018 Feb - 2021 Feb* | **Human-Computer Interaction Center (RWTH Aachen University)**
 
-**M. Sc. Technical Communication (Computer Science) at RWTH Aachen University**
+worked with the junior research group "Digitale Mündigkeit" (loosely translates to "digital citizenship") +++
+my work: built agent-based models, created publication-ready and interactive data visualizations, statistical analyses, built scientific software
 
-Thesis: Modeling Change of Collective Behavior in Situations of Crisis: A Comparison of Health and Environmental Scenarios Using Agent-Based Simulation
+---
+
+# Education
+
+### M. Sc. Technical Communication (Computer Science)
+
+*2018 Oct - 2020 Nov* | **RWTH Aachen University**
+
+**Thesis**: Modeling Change of Collective Behavior in Situations of Crisis: A Comparison of Health and Environmental Scenarios Using Agent-Based Simulation
 
 The model is available [here](https://github.com/JohannesNakayama/EpidemicModel.jl).
 
-### 2013 Oct - 2018 Sep
+### B. Sc. Technical Communication (Computer Science)
 
-**B. Sc. Technical Communication (Computer Science) at RWTH Aachen University**
+*2013 Oct - 2018 Sep* | **RWTH Aachen University**
 
-Thesis: The Influence of Decision Support Systems on User Performance in Complex Tasks
+**Thesis**: The Influence of Decision Support Systems on User Performance in Complex Tasks
 
