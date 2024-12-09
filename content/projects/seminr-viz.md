@@ -1,7 +1,7 @@
 +++
-title = "SEMinR"
+title = "SEMinR Visualization"
 description = "Example description" 
-weight = 1
+weight = 6
 +++
 
 I co-wrote a plotting module for the popular R library [`seminr`](https://github.com/sem-in-r/seminr) which implements structural equation modeling (SEM).

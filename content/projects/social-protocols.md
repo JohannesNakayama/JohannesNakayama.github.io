@@ -4,7 +4,7 @@ description = "Social Protocols"
 weight = 1
 
 [extra]
-local_image = "/projects/social-protocols-logo.png"
+# local_image = "/projects/social-protocols-logo.png"
 +++
 
 The [social protocols organization](https://social-protocols.org/) has the goal of creating algorithms to enhance collective intelligence.

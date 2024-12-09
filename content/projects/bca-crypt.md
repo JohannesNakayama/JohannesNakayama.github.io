@@ -1,7 +1,7 @@
 +++
 title = "BCACrypt"
 description = "Example description" 
-weight = 1
+weight = 5
 +++
 
 This was really just a toy project since I was (and still am) fascinated by cellular automata and cryptography.

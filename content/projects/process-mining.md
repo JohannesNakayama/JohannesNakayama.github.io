@@ -1,10 +1,10 @@
 +++
 title = "ProcessMining.jl"
 description = "Example description"
-weight = 1
+weight = 3
 
 [extra]
-remote_image = "https://images.unsplash.com/photo-1462556791646-c201b8241a94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465&q=80"
+# remote_image = "https://images.unsplash.com/photo-1462556791646-c201b8241a94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465&q=80"
 +++
 
 I got pretty interested in process mining a while ago at university.

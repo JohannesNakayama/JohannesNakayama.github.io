@@ -1,10 +1,10 @@
 +++
 title = "Citation Networks"
 description = "Example description"
-weight = 1
+weight = 4
 
 [extra]
-remote_image = "https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
+# remote_image = "https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
 +++
 
 The popular R library [`bibliometrix`](https://www.bibliometrix.org/home/) has a lot of useful tools to analyze large datasets of scientific publications as provided by databases such as Scopus.
