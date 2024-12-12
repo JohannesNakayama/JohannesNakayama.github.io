@@ -2,43 +2,44 @@
 
 {% block main_content %}
     {{ post_macros::home_page(section=section) }}
-    {% set blog_posts = get_section(path="posts/_index.md") %}
-    <h1>Recent Blog Posts</h1>
-    <ul>
-    {% for page in blog_posts.pages %}
-        <li class="list-item">
-            <section>
-                <div class="post-header">
-                    <time>{{ page.date | date(format="%Y-%m-%d") }}</time>
 
-                    <div>
-                        <h1 class="title">
-                            <a href={{ page.permalink }}>{{page.title}}</a>
+    <!-- {% set blog_posts = get_section(path="posts/_index.md") %} -->
+    <!-- <h1>Recent Blog Posts</h1> -->
+    <!-- <ul> -->
+    <!-- {% for page in blog_posts.pages %} -->
+    <!--     <li class="list-item"> -->
+    <!--         <section> -->
+    <!--             <div class="post-header"> -->
+    <!--                 <time>{{ page.date | date(format="%Y-%m-%d") }}</time> -->
 
-                            {% if page.draft %}
-                            <span class="draft-label">DRAFT</span>
-                            {% endif %}
-                        </h1>
+    <!--                 <div> -->
+    <!--                     <h1 class="title"> -->
+    <!--                         <a href={{ page.permalink }}>{{page.title}}</a> -->
 
-                        <div class="meta">
-                            <div class="description">
-                                {% if page.description %}
-                                {{ page.description }}
-                                {% elif page.summary %}
-                                {{ page.summary | safe }}&hellip;
-                                {% else %}
-                                {% set hide_read_more = true %}
-                                {% endif %}
-                            </div>
+    <!--                         {% if page.draft %} -->
+    <!--                         <span class="draft-label">DRAFT</span> -->
+    <!--                         {% endif %} -->
+    <!--                     </h1> -->
 
-                            {% if not hide_read_more %}
-                            <a class="readmore" href={{ page.permalink }}>Read more ⟶</a>
-                            {% endif %}
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </li>
-    {% endfor %}
-    </ul>
+    <!--                     <div class="meta"> -->
+    <!--                         <div class="description"> -->
+    <!--                             {% if page.description %} -->
+    <!--                             {{ page.description }} -->
+    <!--                             {% elif page.summary %} -->
+    <!--                             {{ page.summary | safe }}&hellip; -->
+    <!--                             {% else %} -->
+    <!--                             {% set hide_read_more = true %} -->
+    <!--                             {% endif %} -->
+    <!--                         </div> -->
+
+    <!--                         {% if not hide_read_more %} -->
+    <!--                         <a class="readmore" href={{ page.permalink }}>Read more ⟶</a> -->
+    <!--                         {% endif %} -->
+    <!--                     </div> -->
+    <!--                 </div> -->
+    <!--             </div> -->
+    <!--         </section> -->
+    <!--     </li> -->
+    <!-- {% endfor %} -->
+    <!-- </ul> -->
 {% endblock main_content %}

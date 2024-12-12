@@ -27,7 +27,7 @@ socials = [
   { name = "bluesky", url = "https://jnakayama.bsky.social", icon = "bluesky" },
 ]
 menu = [
-    { name = "/posts", url = "/posts", weight = 1 },
+    # { name = "/posts", url = "/posts", weight = 1 },
     { name = "/projects", url = "/projects", weight = 2 },
     { name = "/about", url = "/about", weight = 3 },
     { name = "/cv", url = "/cv", weight = 3 },
