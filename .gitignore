@@ -1,5 +1,3 @@
-# --> https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
-
 # Images that I might use
 /static/staging-imgs
 
@@ -7,16 +5,8 @@
 /.direnv
 /.env
 
-# Generated files by hugo
+# Generated files by Zola
 /public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
-
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
 
 # Temporary lock file while building
-/.hugo_build.lock
+/.zola_build.lock
