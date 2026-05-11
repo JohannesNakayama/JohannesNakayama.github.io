@@ -1,6 +1,6 @@
 +++
 title = "ProcessMining.jl"
-description = "Example description"
+description = "Process mining library for Julia."
 weight = 3
 
 [extra]

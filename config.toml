@@ -19,17 +19,15 @@ build_search_index = false
 highlight_code = false
 
 [extra]
-theme = "auto"
+theme = "light"
+stylesheets = ["tabs.css"]
 socials = [
   { name = "linkedin", url = "https://www.linkedin.com/in/johannes-nakayama/", icon = "linkedin" },
   { name = "github", url = "https://github.com/JohannesNakayama/", icon = "github" },
-  { name = "gitlab", url = "https://gitlab.com/jnakayama/", icon = "gitlab" },
-  { name = "bluesky", url = "https://jnakayama.bsky.social", icon = "bluesky" },
+  { name = "bluesky", url = "https://jnakayama.bsky.social", icon = "bluesky" }
 ]
 menu = [
     # { name = "/posts", url = "/posts", weight = 1 },
-    { name = "/projects", url = "/projects", weight = 2 },
     { name = "/about", url = "/about", weight = 3 },
-    { name = "/cv", url = "/cv", weight = 3 },
-    { name = "/tags", url = "/tags", weight = 4 },
+    { name = "/projects", url = "/projects", weight = 2 },
 ]

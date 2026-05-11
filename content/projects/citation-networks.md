@@ -1,6 +1,6 @@
 +++
 title = "Citation Networks"
-description = "Example description"
+description = "Citation graph extraction and analysis."
 weight = 4
 
 [extra]

@@ -1,6 +1,6 @@
 +++
 title = "Social Dynamics Hub"
-description = "Example description"
+description = "Learning resources for complex social systems."
 weight = 2
 
 [extra]

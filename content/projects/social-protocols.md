@@ -1,6 +1,6 @@
 +++
 title = "Social Protocols"
-description = "Social Protocols"
+description = "Algorithms for collective intelligence."
 weight = 1
 
 [extra]

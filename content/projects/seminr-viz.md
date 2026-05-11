@@ -1,6 +1,6 @@
 +++
 title = "SEMinR Visualization"
-description = "Example description" 
+description = "Publication-ready SEM plots for R." 
 weight = 6
 +++
 

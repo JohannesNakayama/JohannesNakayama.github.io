@@ -1,6 +1,6 @@
 +++
 title = "BCACrypt"
-description = "Example description" 
+description = "Cellular automata encryption in Julia." 
 weight = 5
 +++
 
