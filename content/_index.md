@@ -1,6 +1,7 @@
 +++
-title= "Hi"
+title= "Hi, I'm Johannes ✌️"
 template = "homepage.html"
 +++
 
-Welcome to my site!
+I build software (among other things).
+This is my home on the web.
