@@ -64,9 +64,13 @@ header .socials {
 }
 
 .social {
-    border-bottom: unset;
+    border-bottom: 2px solid transparent;
     background-image: unset;
     padding: 2px;
+}
+
+.social:hover {
+    border-bottom-color: var(--primary-color);
 }
 
 .social>img {

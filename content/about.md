@@ -22,9 +22,9 @@ and researched opinion dynamics in complex social systems at RWTH Aachen.
 <div class="timeline">
 
 {% timeline_entry(title="Software Engineer", date="2025 Feb – today", company="IRIS AG", location="Aachen") %}
-- developed VLM-based AI extraction engines (C#/Dotnet) as cloud microservices for IRIS Pulse, an intelligent document processing platform
-- created automated benchmarking infrastructure for extraction tasks (Rust/C#/Python)
-- worked on deployment pipelines (Jenkins) and cloud-native orchestration (Kubernetes)
+- develop VLM-based AI extraction engines (C#/Dotnet) as cloud microservices for IRIS Pulse, an intelligent document processing platform
+- create automated benchmarking infrastructure for extraction tasks (Rust/C#/Python)
+- work on deployment pipelines (Jenkins) and cloud-native orchestration (Kubernetes)
 {% end %}
 
 {% timeline_entry(title="Co-Founder, Software Engineer", date="2024 Jan – 2024 Dec", company="Jabble (Startup project)", location="Aachen/Remote") %}

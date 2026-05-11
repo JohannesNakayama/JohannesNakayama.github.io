@@ -15,10 +15,8 @@ $text-1: #6b8fa0;
 
   --border-color: var(--bg-2);
 
-  --primary-color: #3b82c6;
+  --primary-color: #22c55e;
   --hover-color: white;
 
-  .social:hover img {
-    filter: brightness(0) saturate(100%) invert(55%) sepia(35%) saturate(700%) hue-rotate(195deg) brightness(110%) contrast(95%);
-  }
+
 }
