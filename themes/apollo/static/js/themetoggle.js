@@ -1,15 +1,28 @@
-function setTheme(mode) {
-    localStorage.setItem("theme-storage", mode);
+function safeLocalStorageGet(key) {
+    try {
+        return localStorage.getItem(key);
+    } catch {
+        return null;
+    }
 }
 
-// Functions needed for the theme toggle
-// 
+function safeLocalStorageSet(key, value) {
+    try {
+        localStorage.setItem(key, value);
+    } catch {
+    }
+}
+
+function setTheme(mode) {
+    safeLocalStorageSet("theme-storage", mode);
+}
 
 function toggleTheme() {
-    if (localStorage.getItem("theme-storage") === "light") {
+    var mode = safeLocalStorageGet("theme-storage");
+    if (mode === "light") {
         setTheme("dark");
         updateItemToggleTheme();
-    } else if (localStorage.getItem("theme-storage") === "dark") {
+    } else if (mode === "dark") {
         setTheme("light");
         updateItemToggleTheme();
     }
@@ -22,7 +35,7 @@ function updateItemToggleTheme() {
     if (darkModeStyle) {
         darkModeStyle.disabled = (mode === "light");
     }
-    
+
     const sunIcon = document.getElementById("sun-icon");
     const moonIcon = document.getElementById("moon-icon");
     if (sunIcon && moonIcon) {
@@ -41,7 +54,7 @@ function updateItemToggleTheme() {
 }
 
 function getSavedTheme() {
-    let currentTheme = localStorage.getItem("theme-storage");
+    let currentTheme = safeLocalStorageGet("theme-storage");
     if(!currentTheme) {
         if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
             currentTheme = "dark";
@@ -53,5 +66,4 @@ function getSavedTheme() {
     return currentTheme;
 }
 
-// Update the toggle theme on page load
 updateItemToggleTheme();

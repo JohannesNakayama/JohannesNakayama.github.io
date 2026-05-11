@@ -9,8 +9,15 @@
 @import "parts/tags.scss";
 
 :root {
-  /* Used for: block comment, hr, ... */
-  --border-color: var(--border-color);
+  /* Core theme variables (light default) */
+  --text-0: #000;
+  --text-1: #6b8fa0;
+  --bg-0: #faf9f6;
+  --bg-1: #f6f5ef;
+  --bg-2: #e8e3d5;
+  --primary-color: #22c55e;
+  --hover-color: white;
+  --border-color: var(--bg-2);
 
   /* Fonts */
   --text-font: 'Jetbrains Mono';
