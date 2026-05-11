@@ -204,6 +204,15 @@ del {
 
 .timeline-header {
   margin-bottom: 0.5rem;
+  transition: opacity 0.2s ease;
+}
+
+.timeline-item:not(:hover) .timeline-header {
+  opacity: 0.6;
+}
+
+.timeline-item:hover .timeline-header {
+  opacity: 1;
 }
 
 .timeline-role {
@@ -229,12 +238,12 @@ del {
   border-radius: 8px;
   padding: 1rem;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  opacity: 0.85;
-  transition: opacity 0.2s ease, box-shadow 0.2s ease;
+  transition: color 0.2s ease, box-shadow 0.2s ease;
+  color: color-mix(in srgb, var(--text-0) 60%, transparent);
 }
 
 .timeline-item:hover .timeline-card {
-  opacity: 1;
+  color: var(--text-0);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
