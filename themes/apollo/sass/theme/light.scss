@@ -1,0 +1,24 @@
+$bg-0: #faf9f6;
+$bg-1: darken($bg-0, 2%);
+$bg-2: darken($bg-1, 8%);
+
+$text-0: #000;
+$text-1: #6b8fa0;
+
+:root.light {
+  --text-0: #{$text-0};
+  --text-1: #{$text-1};
+
+  --bg-0: #{$bg-0};
+  --bg-1: #{$bg-1};
+  --bg-2: #{$bg-2};
+
+  --border-color: var(--bg-2);
+
+  --primary-color: #3b82c6;
+  --hover-color: white;
+
+  .social:hover img {
+    filter: brightness(0) saturate(100%) invert(55%) sepia(35%) saturate(700%) hue-rotate(195deg) brightness(110%) contrast(95%);
+  }
+}
